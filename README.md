@@ -3,7 +3,7 @@
 A server-side rendered web application built with **Node.js**, **Express.js**, **EJS (Embedded JavaScript)**, and **MongoDB** using the **MVC** architecture.
 
 ## Live Deployment (Render)
-* **Live Website:** [https://template-engine-ejs-app-l95n.onrender.com](https://template-engine-ejs-app-l95n.onrender.com)
+* **Live Website:** https://template-engine-ejs-app-l95n.onrender.com/
 *(Note: The Render free-tier server may take 30–50 seconds to wake up on the first visit after inactivity.)*
 
 ## Tech Stack
